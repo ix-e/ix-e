@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0b,50:7a0f1a,100:0b0b0b&height=220&section=header&text=JOOB&fontSize=70&fontColor=c9a227&fontAlignY=40&desc=%E4%BE%8D%20%C2%B7%20IA%20%26%20Big%20Data%20%C2%B7%20Syst%C3%A8mes&descAlignY=62&descColor=e8dcc0&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0b,50:7a0f1a,100:0b0b0b&height=220&section=header&text=JOOB&fontSize=70&fontColor=c9a227&fontAlignY=40&desc=AI%20and%20Big%20Data%20-%20Systems%20Builder&descAlignY=62&descColor=e8dcc0&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=C9A227&center=true&vCenter=true&width=700&lines=%C3%89l%C3%A8ve+ing%C3%A9nieur+%E2%80%94+IA+%26+Big+Data;SystemBuilder+%C2%B7+ScaffoldBuilder;Cybers%C3%A9curit%C3%A9+%C2%B7+Mod%C3%A9lisation+%C2%B7+Architecture+des+syst%C3%A8mes" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=C9A227&center=true&vCenter=true&width=640&lines=%C3%89l%C3%A8ve+ing%C3%A9nieur+%E2%80%94+IA+%26+Big+Data;SystemBuilder+%C2%B7+ScaffoldBuilder;Cybers%C3%A9curit%C3%A9+%C2%B7+Mod%C3%A9lisation+%C2%B7+Syst%C3%A8mes" alt="Typing SVG" />
 
 </div>
 
@@ -14,7 +14,7 @@
 
 </div>
 
-Élève ingénieur en **Intelligence Artificielle et Big Data**, également passionné par la **cybersécurité**, ayant un intérêt grandissant pour la **modélisation** et au fonctionnement interne des systèmes : la façon dont ils sont architecturés, dont les données y circulent, dont leurs mécanismes opèrent et où se situent leurs points de défaillance.
+Élève ingénieur en **Intelligence Artificielle et Big Data**, également passionné par la **cybersécurité**, ayant un intérêt grandissant pour la **modélisation** et le fonctionnement interne des systèmes : la façon dont ils sont architecturés, dont les données y circulent, dont leurs mécanismes opèrent et où se situent leurs points de défaillance.
 
 <br/>
 
@@ -26,7 +26,7 @@
 
 </div>
 
-| | |
+| Domaine | Détail |
 |:--|:--|
 | 🎓 **Formation** | Élève ingénieur, spécialité IA & Big Data |
 | 🏗️ **SystemBuilder** | Conception et assemblage de systèmes complets : données, services, interfaces |
@@ -72,19 +72,6 @@
 **設計 · Modélisation & Outils**
 
 ![UML](https://img.shields.io/badge/UML-0b0b0b?style=flat-square&logoColor=c9a227) ![Merise](https://img.shields.io/badge/Merise-0b0b0b?style=flat-square&logoColor=b7282e) ![Draw.io](https://img.shields.io/badge/Draw.io-0b0b0b?style=flat-square&logoColor=c9a227&logo=diagramsdotnet) ![Postman](https://img.shields.io/badge/Postman-0b0b0b?style=flat-square&logoColor=b7282e&logo=postman) ![VS Code](https://img.shields.io/badge/VS%20Code-0b0b0b?style=flat-square&logoColor=c9a227&logo=visualstudiocode) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-0b0b0b?style=flat-square&logoColor=b7282e&logo=intellijidea) ![LaTeX](https://img.shields.io/badge/LaTeX-0b0b0b?style=flat-square&logoColor=c9a227&logo=latex) ![Notion](https://img.shields.io/badge/Notion-0b0b0b?style=flat-square&logoColor=b7282e&logo=notion)
-
-<br/>
-
----
-
-<div align="center">
-
-**記録 · Activité GitHub**
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ix-e&show_icons=true&theme=transparent&title_color=c9a227&icon_color=b7282e&text_color=e8dcc0&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ix-e&layout=compact&theme=transparent&title_color=c9a227&text_color=e8dcc0&hide_border=true" />
-
-</div>
 
 <br/>
 
